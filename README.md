@@ -70,3 +70,5 @@ Vá até o seu repositório no GitHub e clique no botão **"Compare & pull reque
 ## **Contribuidores**
 
 - [JG-Souza](https://github.com/JG-Souza)
+- [RyanPAlvim](https://github.com/RyanPAlvim)
+  
